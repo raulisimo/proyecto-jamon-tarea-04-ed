@@ -44,7 +44,7 @@ public class JamonSanchezPerezRaul2122 {
     {
         return getStock();
     }
-     
+  
      /* Método para comprar jamones. Modifica el stock.
      * Este método va a ser probado con Junit
      */
